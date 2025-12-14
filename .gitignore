@@ -1,0 +1,68 @@
+# Xcode
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.swiftpm/xcode/
+
+# Derived Data
+DerivedData/
+.DS_Store
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/
+Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Temporary files
+*.tmp
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+
+# SPM
+.build/
+.swiftpm/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Xcode
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Generated files
+*.generated.swift
+*.generated.strings
