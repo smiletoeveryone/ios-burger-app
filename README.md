@@ -364,7 +364,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue on GitHub.
+For support, email contact@entropyailab.com or open an issue on GitHub.
 
 ## 🙏 Acknowledgments
 
