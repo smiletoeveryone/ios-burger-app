@@ -349,8 +349,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Developed with ❤️ using SwiftUI**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@smiletoeveryone](https://github.com/smiletoeveryone)
+- Email: contact@entropyailab.com
 
 ## 🤝 Contributing
 
