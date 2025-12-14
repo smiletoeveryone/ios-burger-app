@@ -2,29 +2,46 @@
 
 A modern, feature-rich iOS application for browsing, ordering, and managing burger selections with detailed nutritional information. Built with SwiftUI for iOS 26.1+.
 
-## 📸 App Screenshots
+## 📸 App Screenshots & Features
 
-### Menu View - Browse Burgers
-![Menu View](screenshots/1_menu_view.png)
+### 🍔 Menu View - Browse Burgers
 *Browse through our delicious burger collection with search functionality and category filters*
+- Display all 10+ burger options
+- Search by name or category
+- Real-time filtering
+- Price and nutrition preview
 
-### Burger Details - Nutritional Information
-![Burger Detail](screenshots/2_burger_detail.png)
+### 🔍 Burger Details - Nutritional Information
 *View comprehensive nutritional information and detailed burger descriptions with quantity selector*
+- Full burger description
+- Nutritional facts (Calories, Protein, Carbs, Fat, Sugar, Fiber)
+- Category badge
+- Quantity selector with +/- buttons
+- Real-time price calculation
 
-### Shopping Cart
-![Cart View](screenshots/3_cart_view.png)
+### 🛒 Shopping Cart
 *Manage your order with easy quantity adjustment and real-time price calculation*
+- View all added items
+- Adjust quantities
+- Remove items
+- Calculate total with subtotals
+- Proceed to checkout
 
-### Order History
-![Order History](screenshots/4_orders_view.png)
+### 📋 Order History
 *Track your previous orders with timestamps and order details*
+- View past orders
+- Order timestamps
+- Item details per order
+- Order status tracking
 
-### Search & Filter Feature
-![Search Feature](screenshots/5_search_feature.png)
+### 🔎 Search & Filter Feature
 *Quickly find your favorite burgers with intelligent search and filtering*
+- Search by burger name
+- Filter by category
+- Real-time results
+- Instant preview
 
-> **Note:** To add actual screenshots, follow the [SCREENSHOT_GUIDE.md](SCREENSHOT_GUIDE.md)
+> **Note:** To add actual screenshot images, follow the [CAPTURE_SCREENSHOTS_GUIDE.md](CAPTURE_SCREENSHOTS_GUIDE.md)
 
 ---
 
