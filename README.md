@@ -2,6 +2,32 @@
 
 A modern, feature-rich iOS application for browsing, ordering, and managing burger selections with detailed nutritional information. Built with SwiftUI for iOS 26.1+.
 
+## 📸 App Screenshots
+
+### Menu View - Browse Burgers
+![Menu View](screenshots/1_menu_view.png)
+*Browse through our delicious burger collection with search functionality and category filters*
+
+### Burger Details - Nutritional Information
+![Burger Detail](screenshots/2_burger_detail.png)
+*View comprehensive nutritional information and detailed burger descriptions with quantity selector*
+
+### Shopping Cart
+![Cart View](screenshots/3_cart_view.png)
+*Manage your order with easy quantity adjustment and real-time price calculation*
+
+### Order History
+![Order History](screenshots/4_orders_view.png)
+*Track your previous orders with timestamps and order details*
+
+### Search & Filter Feature
+![Search Feature](screenshots/5_search_feature.png)
+*Quickly find your favorite burgers with intelligent search and filtering*
+
+> **Note:** To add actual screenshots, follow the [SCREENSHOT_GUIDE.md](SCREENSHOT_GUIDE.md)
+
+---
+
 ## ✨ Features
 
 ### 📱 Core Functionality
