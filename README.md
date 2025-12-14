@@ -5,6 +5,8 @@ A modern, feature-rich iOS application for browsing, ordering, and managing burg
 ## 📸 App Screenshots & Features
 
 ### 🍔 Menu View - Browse Burgers
+![Menu View](screenshots/1_menu_view.png)
+
 *Browse through our delicious burger collection with search functionality and category filters*
 - Display all 10+ burger options
 - Search by name or category
@@ -41,7 +43,7 @@ A modern, feature-rich iOS application for browsing, ordering, and managing burg
 - Real-time results
 - Instant preview
 
-> **Note:** To add actual screenshot images, follow the [CAPTURE_SCREENSHOTS_GUIDE.md](CAPTURE_SCREENSHOTS_GUIDE.md)
+> **Note:** To add more screenshot images, follow the [CAPTURE_SCREENSHOTS_GUIDE.md](CAPTURE_SCREENSHOTS_GUIDE.md)
 
 ---
 
